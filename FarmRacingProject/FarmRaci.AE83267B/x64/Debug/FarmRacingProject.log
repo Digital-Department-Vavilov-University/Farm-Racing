@@ -1,0 +1,5 @@
+﻿  FormGarage.cpp
+  FormMain.cpp
+  FormMenu.cpp
+  Создание кода...
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Max\source\repos\FarmRacingProject\FarmRacingProject\x64\Debug\FarmRacingProject.exe"

@@ -1,0 +1,6 @@
+C:\Users\Max\source\repos\FarmRacingProject\FarmRacingProject\x64\Debug\FarmRacingProject.vcxproj.AssemblyReference.cache
+C:\Users\Max\source\repos\FarmRacingProject\FarmRacingProject\x64\Debug\FarmRacingProject.FormGarage.resources
+C:\Users\Max\source\repos\FarmRacingProject\FarmRacingProject\x64\Debug\FarmRacingProject.FormMain.resources
+C:\Users\Max\source\repos\FarmRacingProject\FarmRacingProject\x64\Debug\FarmRacingProject.FormMenu.resources
+C:\Users\Max\source\repos\FarmRacingProject\FarmRacingProject\x64\Debug\FarmRacingProject.vcxproj.GenerateResource.cache
+C:\Users\Max\source\repos\FarmRacingProject\FarmRacingProject\x64\Debug\FarmRacingProject.exe
